@@ -3,7 +3,7 @@ My own flavour of norwegian dvorak with some optimizations to programming and ge
 
 ## X11
 Use xorg-xmodmap to set keymaps.
-See [https://wiki.archlinux.org/title/Xmodmap](Arch Wiki) for more details.
+See [Arch Wiki](https://wiki.archlinux.org/title/Xmodmap) for more details.
 ```sh
 git clone "https://github.com/elicatza/elivorza"
 cd elivorza
